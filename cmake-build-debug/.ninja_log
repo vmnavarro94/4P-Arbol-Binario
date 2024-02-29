@@ -1,0 +1,19 @@
+# ninja log v5
+0	1307	1709231863467168580	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+0	1309	1709231863467158163	CMakeFiles/Arbol_Binario.dir/Tree/Tree.cpp.o	3a1f46982e1d5951
+1309	1557	1709231863719295416	Arbol_Binario	239b09ebb021def9
+5	888	1709231876149215698	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+888	1171	1709231876435620580	Arbol_Binario	239b09ebb021def9
+4	388	1709232039927124497	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+4	389	1709232039929347666	CMakeFiles/Arbol_Binario.dir/Tree/Tree.cpp.o	3a1f46982e1d5951
+389	547	1709232040092881801	Arbol_Binario	239b09ebb021def9
+4	336	1709232077672236784	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+336	372	1709232077708342582	Arbol_Binario	239b09ebb021def9
+5	445	1709232312361948929	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+5	446	1709232312362627679	CMakeFiles/Arbol_Binario.dir/Tree/Tree.cpp.o	3a1f46982e1d5951
+446	599	1709232312523613894	Arbol_Binario	239b09ebb021def9
+15	302	1709232351646276810	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+15	306	1709232351651842901	CMakeFiles/Arbol_Binario.dir/Tree/Tree.cpp.o	3a1f46982e1d5951
+306	340	1709232351686580614	Arbol_Binario	239b09ebb021def9
+11	358	1709232397211108150	CMakeFiles/Arbol_Binario.dir/main.cpp.o	6154a2adc845bb44
+358	396	1709232397250558578	Arbol_Binario	239b09ebb021def9

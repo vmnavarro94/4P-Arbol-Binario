@@ -1,0 +1,3 @@
+/Users/vnavarro/ceti/EDD-4P/Arbol-Binario/cmake-build-debug/CMakeFiles/Arbol_Binario.dir
+/Users/vnavarro/ceti/EDD-4P/Arbol-Binario/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vnavarro/ceti/EDD-4P/Arbol-Binario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
